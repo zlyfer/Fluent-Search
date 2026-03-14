@@ -425,12 +425,12 @@
     "DisplayName": "Open HeidiSQL Profiles",
     "Description": "Search and open HeidiSQL database connection profiles.",
     "PublisherName": "zlyfer",
-    "Version": "1.0.0.0",
+    "Version": "1.0.1.0",
     "MinimumFluentSearchVersion": null,
     "URL": "https://github.com/zlyfer/OpenHeidiSQLProfiles.Fluent.Plugin",
-    "DownloadURL": "https://github.com/zlyfer/OpenHeidiSQLProfiles.Fluent.Plugin/releases/download/1.0.0/OpenHeidiSQLProfiles.Fluent.Plugin.zip",
+    "DownloadURL": "https://github.com/zlyfer/OpenHeidiSQLProfiles.Fluent.Plugin/releases/download/1.0.1/OpenHeidiSQLProfiles.Fluent.Plugin.zip",
     "IconUrl": null,
-    "IconGlyph": "\uf003",
+    "IconGlyph": "\uEE94",
     "IconBase64": null
   }
 ]
